@@ -3,7 +3,7 @@
 <h1>
 <h3 align="left">A passionate full-stack web developer and techie</h3>
   <p>
-    I have a strong passion for learning, creating and developing in every domain of the tech industry.
+    I am a BTech CSE student with honors in full stack web development, I have a strong passion for learning, creating and developing in every domain of the tech industry.
     Always eager to acquire new skills and concepts, I enjoy working in dynamic environments because they foster knowledge sharing and continuous learning.
     I'm constantly advancing and polishing my skills and limits for the betterment of society and nature.
   </p>
