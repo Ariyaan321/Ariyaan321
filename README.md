@@ -8,14 +8,16 @@
     I'm constantly advancing and polishing my skills and limits for the betterment of society and nature.
   </p>
   
-- 🌱 I’m currently advancing my skills in **new WebDev technologies**
+- 🌱 I’m currently learning and implementing in **AIML and DSA**
 
 - 💬 Ask me about **MERN, WebDev in general**
 
 - 📫 How to reach me **ariyaantech@gmail.com**
 
-<a href="https://www.codechef.com/users/ariyaan123" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef profile"></img></a>
-<a href="https://linkedin.com/in/ariyaan-khurram" target="_blank"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn profile"></img></a>
+<a href="https://www.codechef.com/users/ariyaan123" target="_blank"><img src="https://github.com/user-attachments/assets/77efbd67-5c56-4de0-b3fd-1584ae3d1cbd" alt="CodeChef profile"></img></a>
+<a href="https://leetcode.com/u/ariyaan968/" target="_blank"><img src="https://github.com/user-attachments/assets/9d2fa865-f8e5-4bb1-b02a-62cf61c9b93e" alt="LeetCode profile"></img></a>
+<a href="https://www.hackerrank.com/profile/ariyaan968" target="_blank"><img src="https://github.com/user-attachments/assets/383d669c-cc6c-461d-8f58-2b8cd40192b4" alt="HackerRank profile"></img></a>
+<a href="https://linkedin.com/in/ariyaan-khurram" target="_blank"><img src="https://github.com/user-attachments/assets/2eee36f2-ca5f-4696-857a-e4f2be59cc7c" alt="LinkedIn profile"></img></a>
 
 <hr></hr>
 
