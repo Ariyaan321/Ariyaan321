@@ -35,7 +35,8 @@
 <h2 align="left">📊 Stats 📊</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ariyaan321&theme=react" alt="ariyaan321" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ariyaan321&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&locale=en" alt="ariyaan321" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyaan321&show_icons=true&locale=en&layout=compact&theme=react" alt="ariyaan321"/>
+<!--   <img width=390 src="https://streak-stats.demolab.com/?user=Ariyaan321&count_private=true&theme=react&border_radius=10" alt="Ariyaan's GitHub streak" /> -->
+  <img width=390 src="https://github-readme-streak-stats-five-beta.vercel.app?user=Ariyaan321&theme=react" alt="Ariyaan's GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ariyaan321&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&locale=en" alt="Ariyaan321" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyaan321&show_icons=true&locale=en&layout=compact&theme=react" alt="Ariyaan321 Languages"/>
 </div>
